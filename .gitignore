@@ -11,6 +11,3 @@
 
 # Cargo.lock is ignored if you are building an executable, but checked in if you are building a library
 Cargo.lock
-
-# Ignore the .vscode directory if you don't want to share your VS Code settings
-.vscode/
